@@ -8,9 +8,9 @@ class Landing extends Component {
     return (
         <div className="leagueDiv">
         <p className="gallery">
-            Galery React App <br></br>
+            Dobrodosli na Pinterest<br></br>
         </p>
-        <a href="/gallery"><button>View Gallery</button></a>
+        <a href="/gallery"><button>Pogledaj galeriju</button></a>
         </div>
 
     )
